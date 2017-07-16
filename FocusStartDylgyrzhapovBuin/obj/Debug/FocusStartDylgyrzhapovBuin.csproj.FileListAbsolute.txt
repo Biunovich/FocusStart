@@ -1,0 +1,6 @@
+c:\users\buin\documents\visual studio 2017\Projects\FocusStartDylgyrzhapovBuin\FocusStartDylgyrzhapovBuin\bin\Debug\FocusStartDylgyrzhapovBuin.exe.config
+c:\users\buin\documents\visual studio 2017\Projects\FocusStartDylgyrzhapovBuin\FocusStartDylgyrzhapovBuin\bin\Debug\FocusStartDylgyrzhapovBuin.exe
+c:\users\buin\documents\visual studio 2017\Projects\FocusStartDylgyrzhapovBuin\FocusStartDylgyrzhapovBuin\bin\Debug\FocusStartDylgyrzhapovBuin.pdb
+c:\users\buin\documents\visual studio 2017\Projects\FocusStartDylgyrzhapovBuin\FocusStartDylgyrzhapovBuin\obj\Debug\FocusStartDylgyrzhapovBuin.csprojResolveAssemblyReference.cache
+c:\users\buin\documents\visual studio 2017\Projects\FocusStartDylgyrzhapovBuin\FocusStartDylgyrzhapovBuin\obj\Debug\FocusStartDylgyrzhapovBuin.exe
+c:\users\buin\documents\visual studio 2017\Projects\FocusStartDylgyrzhapovBuin\FocusStartDylgyrzhapovBuin\obj\Debug\FocusStartDylgyrzhapovBuin.pdb
